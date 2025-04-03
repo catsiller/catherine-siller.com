@@ -232,6 +232,7 @@ function App() {
         <title>Catherine Siller's Portfolio</title>
         <link rel="canonical" href="http://www.catherine-siller.com/" />
         <link rel="icon" href={favicon} />
+        <meta name="robots" content="noindex" />
       </Helmet>
       <TopLine />
       <Header />
